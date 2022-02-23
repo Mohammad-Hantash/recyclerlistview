@@ -38,7 +38,7 @@
     "ts-object-utils": "0.0.5"
   },
   "peerDependencies": {
-    "react": ">= 16.8.0",
+    "react": ">= 16.14.0",
     "react-native": ">= 0.30.0"
   },
   "devDependencies": {
