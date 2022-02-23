@@ -38,8 +38,7 @@
     "ts-object-utils": "0.0.5"
   },
   "peerDependencies": {
-    "react": ">= 16.14.0",
-    "react-native": ">= 0.30.0"
+    "react": ">= 16.14.0" 
   },
   "devDependencies": {
     "@types/lodash.debounce": "4.0.3",
